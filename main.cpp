@@ -14,6 +14,7 @@ void asks(string ask){
 
 }
 void questions (){
+    //using structures within external functions :)
     struct {
         string question1;
         int age ;
